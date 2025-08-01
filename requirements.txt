@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+torch
+langchain
+pandas
+matplotlib
+scikit-learn
